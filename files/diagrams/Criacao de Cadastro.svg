@@ -16,7 +16,7 @@
       </g>
       <svg width="50" height="350" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 350)" font-family="'Segoe UI'" font-size="13.2815px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="116.6148" y="28.75">Criação de Usuário</tspan>
+          <tspan x="112.9608" y="28.75">Criação de Cadastro</tspan>
         </text>
       </svg>
     </g>
@@ -44,7 +44,8 @@
       </g>
       <svg width="90" height="56" class="djs-svg-text">
         <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="20.26498" y="33.25">Inserir CPF</tspan>
+          <tspan x="12.74854" y="26.75">Inserir Dados </tspan>
+          <tspan x="25.58794" y="39.75">Pessoais</tspan>
         </text>
       </svg>
     </g>
